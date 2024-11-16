@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\net8.0\MyConsoleProject.cs.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\net8.0\MyConsoleProject.cs.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\net8.0\MyConsoleProject.cs.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\net8.0\MyConsoleProject.cs.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\net8.0\MyConsoleProject.cs.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net8.0\MyConsoleProject.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net8.0\MyConsoleProject.cs.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net8.0\MyConsoleProject.cs.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net8.0\MyConsoleProject.cs.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net8.0\MyConsoleProject.cs.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net8.0\MyConsoleProject.cs.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net8.0\refint\MyConsoleProject.cs.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net8.0\MyConsoleProject.cs.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net8.0\MyConsoleProject.cs.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net8.0\ref\MyConsoleProject.cs.dll
