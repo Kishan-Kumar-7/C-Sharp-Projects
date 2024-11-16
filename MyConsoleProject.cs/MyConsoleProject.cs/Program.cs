@@ -1,4 +1,2 @@
-﻿Console.WriteLine("What is your Name?");
-string name = Console.ReadLine();
-Console.WriteLine("Hello, " + name + "!!");
-Console.Read();
+﻿Console.WriteLine("Welcome to Kishan Accounting Systems");
+Console.WriteLine("Remember, we're \"Accounting\" on You!");
