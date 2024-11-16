@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StudentForm\bin\Debug\net8.0\StudentForm.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StudentForm\bin\Debug\net8.0\StudentForm.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StudentForm\bin\Debug\net8.0\StudentForm.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StudentForm\bin\Debug\net8.0\StudentForm.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StudentForm\bin\Debug\net8.0\StudentForm.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StudentForm\obj\Debug\net8.0\StudentForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StudentForm\obj\Debug\net8.0\StudentForm.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StudentForm\obj\Debug\net8.0\StudentForm.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StudentForm\obj\Debug\net8.0\StudentForm.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StudentForm\obj\Debug\net8.0\StudentForm.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StudentForm\obj\Debug\net8.0\StudentForm.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StudentForm\obj\Debug\net8.0\refint\StudentForm.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StudentForm\obj\Debug\net8.0\StudentForm.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StudentForm\obj\Debug\net8.0\StudentForm.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StudentForm\obj\Debug\net8.0\ref\StudentForm.dll
