@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\IncomeCompare\IncomeCompare\bin\Debug\net8.0\IncomeCompare.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\IncomeCompare\IncomeCompare\bin\Debug\net8.0\IncomeCompare.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\IncomeCompare\IncomeCompare\bin\Debug\net8.0\IncomeCompare.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\IncomeCompare\IncomeCompare\bin\Debug\net8.0\IncomeCompare.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\IncomeCompare\IncomeCompare\bin\Debug\net8.0\IncomeCompare.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\IncomeCompare\IncomeCompare\obj\Debug\net8.0\IncomeCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\IncomeCompare\IncomeCompare\obj\Debug\net8.0\IncomeCompare.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\IncomeCompare\IncomeCompare\obj\Debug\net8.0\IncomeCompare.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\IncomeCompare\IncomeCompare\obj\Debug\net8.0\IncomeCompare.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\IncomeCompare\IncomeCompare\obj\Debug\net8.0\IncomeCompare.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\IncomeCompare\IncomeCompare\obj\Debug\net8.0\IncomeCompare.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\IncomeCompare\IncomeCompare\obj\Debug\net8.0\refint\IncomeCompare.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\IncomeCompare\IncomeCompare\obj\Debug\net8.0\IncomeCompare.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\IncomeCompare\IncomeCompare\obj\Debug\net8.0\IncomeCompare.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\IncomeCompare\IncomeCompare\obj\Debug\net8.0\ref\IncomeCompare.dll
