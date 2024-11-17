@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{76473032-65F3-4A76-8F22-12EA13DCBC32}|StudentForm.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\studentform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76473032-65F3-4A76-8F22-12EA13DCBC32}|StudentForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69206C04-4B99-4197-A6D8-F33C60756DB1}|..\\MathAssigment\\MathAssigment.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\mathassigment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,22 +24,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\StudentForm\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T19:33:51.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MathAssigment\\Program.cs",
-              "RelativeDocumentMoniker": "..\\MathAssigment\\Program.cs",
-              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MathAssigment\\Program.cs*",
-              "RelativeToolTip": "..\\MathAssigment\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T19:33:22.662Z",
+              "WhenOpened": "2024-11-17T18:09:05.336Z",
               "EditorCaption": ""
             }
           ]
