@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ifelseprogram\ifelseprogram\bin\Debug\net8.0\ifelseprogram.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ifelseprogram\ifelseprogram\bin\Debug\net8.0\ifelseprogram.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ifelseprogram\ifelseprogram\bin\Debug\net8.0\ifelseprogram.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ifelseprogram\ifelseprogram\bin\Debug\net8.0\ifelseprogram.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ifelseprogram\ifelseprogram\bin\Debug\net8.0\ifelseprogram.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ifelseprogram\ifelseprogram\obj\Debug\net8.0\ifelseprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ifelseprogram\ifelseprogram\obj\Debug\net8.0\ifelseprogram.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ifelseprogram\ifelseprogram\obj\Debug\net8.0\ifelseprogram.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ifelseprogram\ifelseprogram\obj\Debug\net8.0\ifelseprogram.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ifelseprogram\ifelseprogram\obj\Debug\net8.0\ifelseprogram.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ifelseprogram\ifelseprogram\obj\Debug\net8.0\ifelseprogram.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ifelseprogram\ifelseprogram\obj\Debug\net8.0\refint\ifelseprogram.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ifelseprogram\ifelseprogram\obj\Debug\net8.0\ifelseprogram.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ifelseprogram\ifelseprogram\obj\Debug\net8.0\ifelseprogram.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ifelseprogram\ifelseprogram\obj\Debug\net8.0\ref\ifelseprogram.dll
