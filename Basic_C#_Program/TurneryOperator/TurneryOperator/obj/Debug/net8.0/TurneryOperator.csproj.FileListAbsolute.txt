@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\TurneryOperator\TurneryOperator\bin\Debug\net8.0\TurneryOperator.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\TurneryOperator\TurneryOperator\bin\Debug\net8.0\TurneryOperator.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\TurneryOperator\TurneryOperator\bin\Debug\net8.0\TurneryOperator.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\TurneryOperator\TurneryOperator\bin\Debug\net8.0\TurneryOperator.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\TurneryOperator\TurneryOperator\bin\Debug\net8.0\TurneryOperator.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\TurneryOperator\TurneryOperator\obj\Debug\net8.0\TurneryOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\TurneryOperator\TurneryOperator\obj\Debug\net8.0\TurneryOperator.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\TurneryOperator\TurneryOperator\obj\Debug\net8.0\TurneryOperator.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\TurneryOperator\TurneryOperator\obj\Debug\net8.0\TurneryOperator.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\TurneryOperator\TurneryOperator\obj\Debug\net8.0\TurneryOperator.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\TurneryOperator\TurneryOperator\obj\Debug\net8.0\TurneryOperator.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\TurneryOperator\TurneryOperator\obj\Debug\net8.0\refint\TurneryOperator.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\TurneryOperator\TurneryOperator\obj\Debug\net8.0\TurneryOperator.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\TurneryOperator\TurneryOperator\obj\Debug\net8.0\TurneryOperator.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\TurneryOperator\TurneryOperator\obj\Debug\net8.0\ref\TurneryOperator.dll
