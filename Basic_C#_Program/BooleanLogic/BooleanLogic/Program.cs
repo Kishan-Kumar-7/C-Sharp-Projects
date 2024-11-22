@@ -14,9 +14,10 @@ Console.WriteLine("How Many Speeding Tickets Do You Have? :");
 int utick = Convert.ToInt32(Console.ReadLine());
 
 // create boolean variable and check conditions.
-// if age is more than 13 and DUI is false or tickets are lower than 3 then user is qualified for driving.
-bool quali = uAge > 15 && (uDUI == false ||  utick < 3);
+// if age is more than 13 and DUI is not equal to true or tickets are lower than 3 then user is qualified for driving.
+bool quali = uAge > 15 && (uDUI != true ||  utick < 3);
 // output to user 
 Console.WriteLine("Are You Qualified to Drive? :"+quali);
 // to wait for user input for end program
-Console.ReadLine();
+
+
