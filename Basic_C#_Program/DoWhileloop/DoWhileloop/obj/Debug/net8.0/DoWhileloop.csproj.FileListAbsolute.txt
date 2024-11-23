@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\DoWhileloop\DoWhileloop\bin\Debug\net8.0\DoWhileloop.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\DoWhileloop\DoWhileloop\bin\Debug\net8.0\DoWhileloop.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\DoWhileloop\DoWhileloop\bin\Debug\net8.0\DoWhileloop.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\DoWhileloop\DoWhileloop\bin\Debug\net8.0\DoWhileloop.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\DoWhileloop\DoWhileloop\bin\Debug\net8.0\DoWhileloop.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\DoWhileloop\DoWhileloop\obj\Debug\net8.0\DoWhileloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\DoWhileloop\DoWhileloop\obj\Debug\net8.0\DoWhileloop.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\DoWhileloop\DoWhileloop\obj\Debug\net8.0\DoWhileloop.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\DoWhileloop\DoWhileloop\obj\Debug\net8.0\DoWhileloop.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\DoWhileloop\DoWhileloop\obj\Debug\net8.0\DoWhileloop.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\DoWhileloop\DoWhileloop\obj\Debug\net8.0\DoWhileloop.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\DoWhileloop\DoWhileloop\obj\Debug\net8.0\refint\DoWhileloop.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\DoWhileloop\DoWhileloop\obj\Debug\net8.0\DoWhileloop.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\DoWhileloop\DoWhileloop\obj\Debug\net8.0\DoWhileloop.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\DoWhileloop\DoWhileloop\obj\Debug\net8.0\ref\DoWhileloop.dll
