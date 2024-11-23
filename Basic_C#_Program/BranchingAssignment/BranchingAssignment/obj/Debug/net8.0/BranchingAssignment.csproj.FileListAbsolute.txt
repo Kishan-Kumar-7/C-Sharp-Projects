@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\net8.0\BranchingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\net8.0\BranchingAssignment.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\net8.0\BranchingAssignment.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\net8.0\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\net8.0\BranchingAssignment.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\BranchingAssignment\BranchingAssignment\bin\Debug\net8.0\BranchingAssignment.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\BranchingAssignment\BranchingAssignment\bin\Debug\net8.0\BranchingAssignment.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\BranchingAssignment\BranchingAssignment\bin\Debug\net8.0\BranchingAssignment.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\BranchingAssignment\BranchingAssignment\bin\Debug\net8.0\BranchingAssignment.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\BranchingAssignment\BranchingAssignment\bin\Debug\net8.0\BranchingAssignment.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\net8.0\BranchingAssignment.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\net8.0\refint\BranchingAssignment.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\net8.0\BranchingAssignment.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\net8.0\BranchingAssignment.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\net8.0\ref\BranchingAssignment.dll
