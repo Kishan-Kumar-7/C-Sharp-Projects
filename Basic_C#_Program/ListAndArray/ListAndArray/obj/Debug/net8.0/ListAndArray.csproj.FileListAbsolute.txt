@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ListAndArray\ListAndArray\obj\Debug\net8.0\ListAndArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ListAndArray\ListAndArray\obj\Debug\net8.0\ListAndArray.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ListAndArray\ListAndArray\obj\Debug\net8.0\ListAndArray.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ListAndArray\ListAndArray\obj\Debug\net8.0\ListAndArray.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ListAndArray\ListAndArray\obj\Debug\net8.0\ListAndArray.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ListAndArray\ListAndArray\bin\Debug\net8.0\ListAndArray.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ListAndArray\ListAndArray\bin\Debug\net8.0\ListAndArray.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ListAndArray\ListAndArray\bin\Debug\net8.0\ListAndArray.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ListAndArray\ListAndArray\bin\Debug\net8.0\ListAndArray.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ListAndArray\ListAndArray\bin\Debug\net8.0\ListAndArray.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ListAndArray\ListAndArray\obj\Debug\net8.0\ListAndArray.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ListAndArray\ListAndArray\obj\Debug\net8.0\refint\ListAndArray.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ListAndArray\ListAndArray\obj\Debug\net8.0\ListAndArray.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ListAndArray\ListAndArray\obj\Debug\net8.0\ListAndArray.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ListAndArray\ListAndArray\obj\Debug\net8.0\ref\ListAndArray.dll
