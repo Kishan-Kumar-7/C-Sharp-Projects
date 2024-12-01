@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ExeptionHendeling\ExeptionHendeling\bin\Debug\net8.0\ExeptionHendeling.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ExeptionHendeling\ExeptionHendeling\bin\Debug\net8.0\ExeptionHendeling.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ExeptionHendeling\ExeptionHendeling\bin\Debug\net8.0\ExeptionHendeling.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ExeptionHendeling\ExeptionHendeling\bin\Debug\net8.0\ExeptionHendeling.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ExeptionHendeling\ExeptionHendeling\bin\Debug\net8.0\ExeptionHendeling.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ExeptionHendeling\ExeptionHendeling\obj\Debug\net8.0\ExeptionHendeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ExeptionHendeling\ExeptionHendeling\obj\Debug\net8.0\ExeptionHendeling.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ExeptionHendeling\ExeptionHendeling\obj\Debug\net8.0\ExeptionHendeling.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ExeptionHendeling\ExeptionHendeling\obj\Debug\net8.0\ExeptionHendeling.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ExeptionHendeling\ExeptionHendeling\obj\Debug\net8.0\ExeptionHendeling.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ExeptionHendeling\ExeptionHendeling\obj\Debug\net8.0\ExeptionHendeling.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ExeptionHendeling\ExeptionHendeling\obj\Debug\net8.0\refint\ExeptionHendeling.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ExeptionHendeling\ExeptionHendeling\obj\Debug\net8.0\ExeptionHendeling.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ExeptionHendeling\ExeptionHendeling\obj\Debug\net8.0\ExeptionHendeling.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ExeptionHendeling\ExeptionHendeling\obj\Debug\net8.0\ref\ExeptionHendeling.dll

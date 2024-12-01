@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Assigments\Assigments\bin\Debug\net8.0\Assigments.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Assigments\Assigments\bin\Debug\net8.0\Assigments.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Assigments\Assigments\bin\Debug\net8.0\Assigments.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Assigments\Assigments\bin\Debug\net8.0\Assigments.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Assigments\Assigments\bin\Debug\net8.0\Assigments.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Assigments\Assigments\obj\Debug\net8.0\Assigments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Assigments\Assigments\obj\Debug\net8.0\Assigments.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Assigments\Assigments\obj\Debug\net8.0\Assigments.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Assigments\Assigments\obj\Debug\net8.0\Assigments.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Assigments\Assigments\obj\Debug\net8.0\Assigments.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Assigments\Assigments\obj\Debug\net8.0\Assigments.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Assigments\Assigments\obj\Debug\net8.0\refint\Assigments.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Assigments\Assigments\obj\Debug\net8.0\Assigments.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Assigments\Assigments\obj\Debug\net8.0\Assigments.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Assigments\Assigments\obj\Debug\net8.0\ref\Assigments.dll
