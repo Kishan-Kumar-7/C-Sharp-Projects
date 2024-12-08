@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C1B42EE7-0A99-42E9-B05E-DE3DB690AF33}|MainMethodAssigment\\MainMethodAssigment.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\mainmethodassigment\\mainmethodassigment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1B42EE7-0A99-42E9-B05E-DE3DB690AF33}|MainMethodAssigment\\MainMethodAssigment.csproj|solutionrelative:mainmethodassigment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42EE7-0A99-42E9-B05E-DE3DB690AF33}|MainMethodAssigment\\MainMethodAssigment.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\mainmethodassigment\\mainmethodassigment\\math2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42EE7-0A99-42E9-B05E-DE3DB690AF33}|MainMethodAssigment\\MainMethodAssigment.csproj|solutionrelative:mainmethodassigment\\math2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "math2.cs",
+              "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MainMethodAssigment\\MainMethodAssigment\\math2.cs",
+              "RelativeDocumentMoniker": "MainMethodAssigment\\math2.cs",
+              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MainMethodAssigment\\MainMethodAssigment\\math2.cs*",
+              "RelativeToolTip": "MainMethodAssigment\\math2.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:20:39.858Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MainMethodAssigment\\MainMethodAssigment\\Program.cs",
               "RelativeDocumentMoniker": "MainMethodAssigment\\Program.cs",
-              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MainMethodAssigment\\MainMethodAssigment\\Program.cs",
-              "RelativeToolTip": "MainMethodAssigment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MainMethodAssigment\\MainMethodAssigment\\Program.cs*",
+              "RelativeToolTip": "MainMethodAssigment\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T17:17:58.828Z",
               "EditorCaption": ""
