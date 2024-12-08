@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MainMethodAssigment\MainMethodAssigment\bin\Debug\net8.0\MainMethodAssigment.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MainMethodAssigment\MainMethodAssigment\bin\Debug\net8.0\MainMethodAssigment.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MainMethodAssigment\MainMethodAssigment\bin\Debug\net8.0\MainMethodAssigment.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MainMethodAssigment\MainMethodAssigment\bin\Debug\net8.0\MainMethodAssigment.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MainMethodAssigment\MainMethodAssigment\bin\Debug\net8.0\MainMethodAssigment.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MainMethodAssigment\MainMethodAssigment\obj\Debug\net8.0\MainMethodAssigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MainMethodAssigment\MainMethodAssigment\obj\Debug\net8.0\MainMethodAssigment.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MainMethodAssigment\MainMethodAssigment\obj\Debug\net8.0\MainMethodAssigment.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MainMethodAssigment\MainMethodAssigment\obj\Debug\net8.0\MainMethodAssigment.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MainMethodAssigment\MainMethodAssigment\obj\Debug\net8.0\MainMethodAssigment.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MainMethodAssigment\MainMethodAssigment\obj\Debug\net8.0\MainMethodAssigment.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MainMethodAssigment\MainMethodAssigment\obj\Debug\net8.0\refint\MainMethodAssigment.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MainMethodAssigment\MainMethodAssigment\obj\Debug\net8.0\MainMethodAssigment.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MainMethodAssigment\MainMethodAssigment\obj\Debug\net8.0\MainMethodAssigment.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MainMethodAssigment\MainMethodAssigment\obj\Debug\net8.0\ref\MainMethodAssigment.dll

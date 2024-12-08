@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MainMethodAssigment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42EE7-0A99-42E9-B05E-DE3DB690AF33}|MainMethodAssigment\\MainMethodAssigment.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\mainmethodassigment\\mainmethodassigment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42EE7-0A99-42E9-B05E-DE3DB690AF33}|MainMethodAssigment\\MainMethodAssigment.csproj|solutionrelative:mainmethodassigment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MainMethodAssigment\\MainMethodAssigment\\Program.cs",
+              "RelativeDocumentMoniker": "MainMethodAssigment\\Program.cs",
+              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MainMethodAssigment\\MainMethodAssigment\\Program.cs",
+              "RelativeToolTip": "MainMethodAssigment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:17:58.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
