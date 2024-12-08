@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MathodAssigment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7880cf55da4226de73757e9655e38a3d20c783b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2c3ce4724066467719e009ab4ae8c75221c3b4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MathodAssigment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MathodAssigment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

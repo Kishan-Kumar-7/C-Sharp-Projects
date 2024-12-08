@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ClassMethod\ClassMethod\bin\Debug\net8.0\ClassMethod.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ClassMethod\ClassMethod\bin\Debug\net8.0\ClassMethod.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ClassMethod\ClassMethod\bin\Debug\net8.0\ClassMethod.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ClassMethod\ClassMethod\bin\Debug\net8.0\ClassMethod.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ClassMethod\ClassMethod\bin\Debug\net8.0\ClassMethod.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ClassMethod\ClassMethod\obj\Debug\net8.0\ClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ClassMethod\ClassMethod\obj\Debug\net8.0\ClassMethod.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ClassMethod\ClassMethod\obj\Debug\net8.0\ClassMethod.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ClassMethod\ClassMethod\obj\Debug\net8.0\ClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ClassMethod\ClassMethod\obj\Debug\net8.0\ClassMethod.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ClassMethod\ClassMethod\obj\Debug\net8.0\ClassMethod.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ClassMethod\ClassMethod\obj\Debug\net8.0\refint\ClassMethod.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ClassMethod\ClassMethod\obj\Debug\net8.0\ClassMethod.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ClassMethod\ClassMethod\obj\Debug\net8.0\ClassMethod.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ClassMethod\ClassMethod\obj\Debug\net8.0\ref\ClassMethod.dll
