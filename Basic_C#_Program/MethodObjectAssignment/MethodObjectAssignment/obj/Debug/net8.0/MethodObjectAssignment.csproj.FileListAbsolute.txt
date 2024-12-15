@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MethodObjectAssignment\MethodObjectAssignment\bin\Debug\net8.0\MethodObjectAssignment.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MethodObjectAssignment\MethodObjectAssignment\bin\Debug\net8.0\MethodObjectAssignment.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MethodObjectAssignment\MethodObjectAssignment\bin\Debug\net8.0\MethodObjectAssignment.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MethodObjectAssignment\MethodObjectAssignment\bin\Debug\net8.0\MethodObjectAssignment.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MethodObjectAssignment\MethodObjectAssignment\bin\Debug\net8.0\MethodObjectAssignment.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MethodObjectAssignment\MethodObjectAssignment\obj\Debug\net8.0\MethodObjectAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MethodObjectAssignment\MethodObjectAssignment\obj\Debug\net8.0\MethodObjectAssignment.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MethodObjectAssignment\MethodObjectAssignment\obj\Debug\net8.0\MethodObjectAssignment.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MethodObjectAssignment\MethodObjectAssignment\obj\Debug\net8.0\MethodObjectAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MethodObjectAssignment\MethodObjectAssignment\obj\Debug\net8.0\MethodObjectAssignment.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MethodObjectAssignment\MethodObjectAssignment\obj\Debug\net8.0\MethodObjectAssignment.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MethodObjectAssignment\MethodObjectAssignment\obj\Debug\net8.0\refint\MethodObjectAssignment.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MethodObjectAssignment\MethodObjectAssignment\obj\Debug\net8.0\MethodObjectAssignment.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MethodObjectAssignment\MethodObjectAssignment\obj\Debug\net8.0\MethodObjectAssignment.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\MethodObjectAssignment\MethodObjectAssignment\obj\Debug\net8.0\ref\MethodObjectAssignment.dll
