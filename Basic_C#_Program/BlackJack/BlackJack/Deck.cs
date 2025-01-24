@@ -23,5 +23,24 @@ namespace BlackJack
             }
         }
         public List<Card> Cards { get; set; }
+
+        public static Deck Shuffle(Deck deck, out int timeCount, int times = 1)
+        {
+            timeCount = 0;
+            for (int i = 0; i < times; i++)
+            {
+                timeCount++;
+                List<Card> TempList = new List<Card>();
+                Random random = new Random();
+                while (deck.Cards.Count > 0)
+                {
+                    int randomIndex = random.Next(0, deck.Cards.Count);
+                    TempList.Add(deck.Cards[randomIndex]);
+                    deck.Cards.RemoveAt(randomIndex);
+                }
+                deck.Cards = TempList;
+            }
+            return deck;
+        }
     }
 }
