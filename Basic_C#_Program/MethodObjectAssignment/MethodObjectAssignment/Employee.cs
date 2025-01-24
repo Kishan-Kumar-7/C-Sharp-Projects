@@ -7,8 +7,14 @@ using System.Threading.Tasks;
 namespace MethodObjectAssignment
 {
     // using this class to use employee id and inheritance from person class
-    internal class Employee : Person
+    public class Employee : Person
     {
-        public int ID { get; set; }
+        // overrideing the method of base inheritance from person 
+        public override void SayName() {
+            Console.WriteLine("List of Employee");
+            // calling the pearson method here
+            base.SayName();
+        }
     }
+    
 }
