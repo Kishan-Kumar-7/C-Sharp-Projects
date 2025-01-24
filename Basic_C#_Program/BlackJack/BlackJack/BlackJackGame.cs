@@ -16,7 +16,7 @@ namespace BlackJack
             Console.WriteLine("Welcome in BlackJack Game Players");
             base.ListPlayer();
         }
-        void IWalkAway(Player player) { 
+        public void IWalkAway(Player player) { 
             throw new NotImplementedException();
         }
     }

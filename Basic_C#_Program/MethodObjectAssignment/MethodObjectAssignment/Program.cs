@@ -6,3 +6,4 @@ employee.FirstName = "Sample";
 employee.LastName = "Student";
 // using method from superclass person
 employee.SayName();
+employee.Quit(employee);
