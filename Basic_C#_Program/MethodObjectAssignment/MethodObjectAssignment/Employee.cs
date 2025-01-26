@@ -9,12 +9,17 @@ namespace MethodObjectAssignment
     // using this class to use employee id and inheritance from person class
     public class Employee : Person, IQuitteble
     {
+        // adding a Employee id to compare
         public int Id { get; set; }
-
+        // overloading operator with comparision
+        // as we are comparing two objects we will get result either true or false
         public static bool operator== (Employee employee, Employee employee1) 
         {   
+            // setting up bool variable to get result of employee comarision
             bool employee3 = true;
+            // compairing two employees id
            employee3 = employee.Id == employee1.Id;
+            //returning the bool value
             return employee3;
 
         }
