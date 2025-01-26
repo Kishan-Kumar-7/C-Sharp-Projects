@@ -34,8 +34,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MethodObjectAssignment\\MethodObjectAssignment\\Program.cs",
               "RelativeDocumentMoniker": "MethodObjectAssignment\\Program.cs",
-              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MethodObjectAssignment\\MethodObjectAssignment\\Program.cs*",
-              "RelativeToolTip": "MethodObjectAssignment\\Program.cs*",
+              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MethodObjectAssignment\\MethodObjectAssignment\\Program.cs",
+              "RelativeToolTip": "MethodObjectAssignment\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T16:37:23.19Z",
@@ -52,8 +52,7 @@
               "RelativeToolTip": "MethodObjectAssignment\\IQuitteble.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T16:52:20.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T16:52:20.658Z"
             },
             {
               "$type": "Document",
@@ -61,12 +60,11 @@
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MethodObjectAssignment\\MethodObjectAssignment\\Employee.cs",
               "RelativeDocumentMoniker": "MethodObjectAssignment\\Employee.cs",
-              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MethodObjectAssignment\\MethodObjectAssignment\\Employee.cs*",
-              "RelativeToolTip": "MethodObjectAssignment\\Employee.cs*",
+              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\MethodObjectAssignment\\MethodObjectAssignment\\Employee.cs",
+              "RelativeToolTip": "MethodObjectAssignment\\Employee.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAqwAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T16:28:05.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T16:28:05.351Z"
             },
             {
               "$type": "Document",
@@ -78,8 +76,7 @@
               "RelativeToolTip": "MethodObjectAssignment\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T16:26:16.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T16:26:16.232Z"
             }
           ]
         }
