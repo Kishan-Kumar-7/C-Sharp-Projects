@@ -41,5 +41,7 @@ namespace MethodObjectAssignment
             Console.WriteLine("Employee says \n I Quit.");
         }
 
+
+
     }
 }
