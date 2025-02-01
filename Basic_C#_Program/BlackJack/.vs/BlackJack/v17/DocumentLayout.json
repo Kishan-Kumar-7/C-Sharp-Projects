@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\BlackJack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\blackjack\\blackjack\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\blackjack\\blackjack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\blackjack\\blackjack\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\blackjack\\blackjack\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\blackjack\\blackjack\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\blackjack\\blackjack\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\blackjack\\blackjack\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\blackjack\\blackjack\\blackjackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96C47B7B-C4A5-440F-ABDD-D8FD98D06573}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\blackjackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -38,24 +42,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\BlackJack\\BlackJack\\Deck.cs",
               "RelativeDocumentMoniker": "BlackJack\\Deck.cs",
               "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\BlackJack\\BlackJack\\Deck.cs",
               "RelativeToolTip": "BlackJack\\Deck.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T20:28:26.122Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\BlackJack\\BlackJack\\Card.cs",
+              "RelativeDocumentMoniker": "BlackJack\\Card.cs",
+              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\BlackJack\\BlackJack\\Card.cs",
+              "RelativeToolTip": "BlackJack\\Card.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:34:47.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "BlackJackGame.cs",
               "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\BlackJack\\BlackJack\\BlackJackGame.cs",
               "RelativeDocumentMoniker": "BlackJack\\BlackJackGame.cs",
@@ -67,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IWalkAway.cs",
               "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\BlackJack\\BlackJack\\IWalkAway.cs",
               "RelativeDocumentMoniker": "BlackJack\\IWalkAway.cs",
@@ -79,19 +97,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\BlackJack\\BlackJack\\Program.cs",
               "RelativeDocumentMoniker": "BlackJack\\Program.cs",
               "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\BlackJack\\BlackJack\\Program.cs",
               "RelativeToolTip": "BlackJack\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T15:58:05.73Z"
+              "WhenOpened": "2025-01-24T15:58:05.73Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Dealer.cs",
               "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\BlackJack\\BlackJack\\Dealer.cs",
               "RelativeDocumentMoniker": "BlackJack\\Dealer.cs",
@@ -103,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\BlackJack\\BlackJack\\Player.cs",
               "RelativeDocumentMoniker": "BlackJack\\Player.cs",
@@ -116,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\BlackJack\\BlackJack\\Game.cs",
               "RelativeDocumentMoniker": "BlackJack\\Game.cs",

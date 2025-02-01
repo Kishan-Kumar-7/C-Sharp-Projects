@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ParsingEnum\ParsingEnum\bin\Debug\net8.0\ParsingEnum.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ParsingEnum\ParsingEnum\bin\Debug\net8.0\ParsingEnum.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ParsingEnum\ParsingEnum\bin\Debug\net8.0\ParsingEnum.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ParsingEnum\ParsingEnum\bin\Debug\net8.0\ParsingEnum.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ParsingEnum\ParsingEnum\bin\Debug\net8.0\ParsingEnum.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ParsingEnum\ParsingEnum\obj\Debug\net8.0\ParsingEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ParsingEnum\ParsingEnum\obj\Debug\net8.0\ParsingEnum.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ParsingEnum\ParsingEnum\obj\Debug\net8.0\ParsingEnum.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ParsingEnum\ParsingEnum\obj\Debug\net8.0\ParsingEnum.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ParsingEnum\ParsingEnum\obj\Debug\net8.0\ParsingEnum.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ParsingEnum\ParsingEnum\obj\Debug\net8.0\ParsingEnum.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ParsingEnum\ParsingEnum\obj\Debug\net8.0\refint\ParsingEnum.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ParsingEnum\ParsingEnum\obj\Debug\net8.0\ParsingEnum.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ParsingEnum\ParsingEnum\obj\Debug\net8.0\ParsingEnum.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\ParsingEnum\ParsingEnum\obj\Debug\net8.0\ref\ParsingEnum.dll
