@@ -55,8 +55,7 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T20:28:26.122Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "BlackJack\\Card.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAUwCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T12:34:47.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T12:34:47.84Z"
             },
             {
               "$type": "Document",
@@ -130,8 +128,7 @@
               "RelativeToolTip": "BlackJack\\Player.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAIwBwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T13:45:23.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T13:45:23.243Z"
             },
             {
               "$type": "Document",
