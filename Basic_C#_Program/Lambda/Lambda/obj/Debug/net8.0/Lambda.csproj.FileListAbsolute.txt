@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Lambda\Lambda\obj\Debug\net8.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Lambda\Lambda\obj\Debug\net8.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Lambda\Lambda\obj\Debug\net8.0\Lambda.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Lambda\Lambda\obj\Debug\net8.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Lambda\Lambda\obj\Debug\net8.0\Lambda.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Lambda\Lambda\bin\Debug\net8.0\Lambda.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Lambda\Lambda\bin\Debug\net8.0\Lambda.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Lambda\Lambda\bin\Debug\net8.0\Lambda.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Lambda\Lambda\bin\Debug\net8.0\Lambda.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Lambda\Lambda\bin\Debug\net8.0\Lambda.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Lambda\Lambda\obj\Debug\net8.0\Lambda.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Lambda\Lambda\obj\Debug\net8.0\refint\Lambda.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Lambda\Lambda\obj\Debug\net8.0\Lambda.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Lambda\Lambda\obj\Debug\net8.0\Lambda.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Lambda\Lambda\obj\Debug\net8.0\ref\Lambda.dll
