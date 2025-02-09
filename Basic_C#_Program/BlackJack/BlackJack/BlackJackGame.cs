@@ -8,8 +8,14 @@ namespace BlackJack
 {
     public  class BlackJackGame : Game, IWalkAway
     {
-        public override void Play() { 
-        throw new NotImplementedException();
+        public BlackJackDealer Dealer { get; set; }
+        public override void Play() 
+        { 
+            Dealer = new BlackJackDealer();
+            foreach (Player player in Players)
+            { 
+                
+            }
         }
         public override void ListPlayer()
         {

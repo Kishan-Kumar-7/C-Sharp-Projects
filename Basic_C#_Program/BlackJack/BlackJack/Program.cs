@@ -6,16 +6,25 @@ namespace BlackJack
 
         static void Main()
         {
-            
-            Deck deck = new Deck();
-            int timeSuffled = 0;
-            deck = Deck.Shuffle(deck, out timeSuffled, 3);
-
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
+            Console.WriteLine("Welcome to the Games of Cards Casino. \n Let's Start by Sharing Your Name With Us :");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("And How Much Money Did You Going To Play With Today?");
+            int pBank = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hello, {0}. Would You Like To Join A Game Of BlackJack Right Now?", playerName);
+            string pAnswer = Console.ReadLine().ToLower();
+            if (pAnswer == "yes" || pAnswer == "yea" || pAnswer == "y" || pAnswer == "ya") { 
+                Player player = new Player(playerName, pBank);
+                Game game = new BlackJackGame();
+                game += player;
+                player.IsActivelyPlaying = true;
+                while (player.IsActivelyPlaying && player.Balance > 0) 
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thank You For Playing!");
             }
-            Console.WriteLine("The Deck Suffuled {0} Times.", timeSuffled);
+            Console.WriteLine("Feel Free to Look Around Casino. Bye For Now.");
         }
     }
 }
