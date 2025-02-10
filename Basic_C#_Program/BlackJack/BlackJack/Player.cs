@@ -20,6 +20,19 @@ namespace BlackJack
         public string Name { get; set; }
         public bool IsActivelyPlaying { get; set; }
         public bool Stay { get; set; }
+        public bool Bet(int amount) 
+        {
+            if (Balance - amount < 0)
+            {
+                Console.WriteLine("You Do Not Have Enough Balance To Place That Bet That Size.");
+                return false;
+            }
+            else 
+            { 
+                Balance -= amount;
+                return true;
+            }
+        }
         public static Game operator+ (Game game, Player player) 
         {
             game.Players.Add(player);
