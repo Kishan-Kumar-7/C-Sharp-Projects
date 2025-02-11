@@ -40,8 +40,29 @@ namespace BlackJack
                     Dealer.Deal(player.Hand);
                     if (i == 1) 
                     {
-                        
+                        bool BlackJack = BlackJackRules.CheckForBlackJack(player.Hand);
+                        if (BlackJack) 
+                        { 
+                            Console.WriteLine("BlackJack {0} Wins {1}", player.Name, Bets[player]);
+                            player.Balance += Convert.ToInt32((Bets[player] * 1.5) + Bets[player]);
+                            return;
+                        }
                     }
+                }
+                Console.Write("Dealing....");
+                Dealer.Deal(Dealer.Hand);
+                if (i == 1)
+                {
+                    bool BlackJack = BlackJackRules.CheckForBlackJack(Dealer.Hand);
+                    if (BlackJack) 
+                    { 
+                        Console.WriteLine("Dealer Has BlackJack Everyone Loses.... Try Next Time");
+                        foreach (KeyValuePair<Player, int> entry in Bets) 
+                        { 
+                            Dealer.Balance += entry.Value;
+                        }
+                    }
+
                 }
             }
         }
