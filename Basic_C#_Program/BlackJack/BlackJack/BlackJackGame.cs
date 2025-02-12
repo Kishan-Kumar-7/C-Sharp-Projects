@@ -65,6 +65,73 @@ namespace BlackJack
 
                 }
             }
+            foreach (Player player in Players)
+            {
+                while (!player.Stay)
+                { 
+                    Console.WriteLine("Your Cards Are :");
+                    foreach (Card card in player.Hand)
+                    {
+                        Console.Write("{0}", card.ToString());
+                    }
+                    Console.WriteLine("\n\nHit Or Stay?");
+                    string answer = Console.ReadLine().ToLower();
+                    if (answer == "stay")
+                    {
+                        player.Stay = true;
+                        break;
+                    }
+                    else if (answer == "hit")
+                    { 
+                        Dealer.Deal(player.Hand);
+                    }
+                    bool busted = BlackJackRules.IsBusted(player.Hand);
+                    if (busted) 
+                    {
+                        Dealer.Balance += Bets[player];
+                        Console.WriteLine("{0} Busted! You Loose Your Bet Of {1}. Your Balance Is Now {2}.", player.Name, Bets[player], player.Balance);
+                        Console.WriteLine("Do You Wanna Play Aagin???");
+                        answer = Console.ReadLine().ToLower();
+                        if (answer == "y" || answer == "yes")
+                        {
+                            player.IsActivelyPlaying = true;
+                        }
+                        else
+                        { 
+                            player.IsActivelyPlaying = false;
+                        }
+                    }
+                }
+            }
+            Dealer.isBusted = BlackJackRules.IsBusted(Dealer.Hand);
+            Dealer.Stay = BlackJackRules.ShouldDealerStay(Dealer.Hand);
+            while (!Dealer.isBusted && !Dealer.Stay)
+            {
+                Console.WriteLine("Dealer Is Hitting....");
+                Dealer.Deal(Dealer.Hand);
+                Dealer.isBusted = BlackJackRules.IsBusted(Dealer.Hand);
+                Dealer.Stay = BlackJackRules.ShouldDealerStay(Dealer.Hand);
+
+            }
+            if (Dealer.Stay)
+            {
+                Console.WriteLine("Dealer Is Staying.....");
+            }
+            if (Dealer.isBusted)
+            {
+                Console.WriteLine("Dealer Busted!!!");
+                foreach (KeyValuePair<Player, int> entry in Bets) 
+                {
+                    Console.WriteLine("{0} Won {1}...", entry.Key.Name, entry.Value);
+                    Players.Where(x => x.Name == entry.Key.Name ).First().Balance =+ (entry.Value * 2);
+                    Dealer.Balance -= entry.Value;
+                }
+                return;
+            }
+            foreach (Player player in Players)
+            { 
+                bool? playerWon = BlackJackRules.CompareHands(player.Hand,Dealer.Hand);
+            }
         }
         public override void ListPlayer()
         {

@@ -45,5 +45,25 @@ namespace BlackJack
             if(value == 21) return true;
             else return false;
         }
+        public static bool IsBusted(List<Card> Hand)
+        { 
+            int value = GetAllPossibleHandValue(Hand).Min();
+            if(value > 21) return true;
+            else return false;
+        }
+
+        public static bool ShouldDealerStay(List<Card> Hand)
+        {
+            int[] possibleHandValues = GetAllPossibleHandValue(Hand);
+            foreach (int value in possibleHandValues)
+            { 
+                if (value > 16 && value < 22) return true;
+            }
+            return false;
+        }
+        public static bool CompareHands(List<Card> Hand, List<Card> Hand)
+        { 
+            
+        }
     }
 }
