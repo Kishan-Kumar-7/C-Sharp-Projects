@@ -61,8 +61,8 @@ namespace BlackJack
                         { 
                             Dealer.Balance += entry.Value;
                         }
+                        return;
                     }
-
                 }
             }
             foreach (Player player in Players)
@@ -95,10 +95,12 @@ namespace BlackJack
                         if (answer == "y" || answer == "yes")
                         {
                             player.IsActivelyPlaying = true;
+                            return;
                         }
                         else
                         { 
                             player.IsActivelyPlaying = false;
+                            return;
                         }
                     }
                 }
@@ -123,7 +125,7 @@ namespace BlackJack
                 foreach (KeyValuePair<Player, int> entry in Bets) 
                 {
                     Console.WriteLine("{0} Won {1}...", entry.Key.Name, entry.Value);
-                    Players.Where(x => x.Name == entry.Key.Name ).First().Balance =+ (entry.Value * 2);
+                    Players.Where(x => x.Name == entry.Key.Name ).First().Balance += (entry.Value * 2);
                     Dealer.Balance -= entry.Value;
                 }
                 return;
@@ -131,6 +133,25 @@ namespace BlackJack
             foreach (Player player in Players)
             { 
                 bool? playerWon = BlackJackRules.CompareHands(player.Hand,Dealer.Hand);
+                if (playerWon == null)
+                {
+                    Console.WriteLine("Push! No One Wins...");
+                }
+                else if (playerWon == true)
+                {
+                    Console.WriteLine("{0} Won {1} Money...", player.Name, Bets[player]);
+                    player.Balance += (Bets[player] * 2);
+                    Dealer.Balance -= Bets[player];
+                }
+                else
+                {
+                    Console.WriteLine("Dealer Wins {0}!", Bets[player]);
+                    Dealer.Balance += Bets[player];
+                }
+                Console.WriteLine("Do You Want To Play Again???");
+                string answer = Console.ReadLine().ToLower();
+                if (answer == "yes" || answer == "y" || answer == "ya") player.IsActivelyPlaying = true;
+                else player.IsActivelyPlaying = false;
             }
         }
         public override void ListPlayer()

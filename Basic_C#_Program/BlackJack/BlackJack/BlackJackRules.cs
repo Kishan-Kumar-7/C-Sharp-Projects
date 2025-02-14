@@ -61,9 +61,16 @@ namespace BlackJack
             }
             return false;
         }
-        public static bool CompareHands(List<Card> Hand, List<Card> Hand)
-        { 
-            
+        public static bool? CompareHands(List<Card> PlayerHand, List<Card> Dealerhand)
+        {
+            int[] playerResult = GetAllPossibleHandValue(PlayerHand);
+            int[] DealerResult = GetAllPossibleHandValue(Dealerhand);
+
+            int playerScore = playerResult.Where(x => x < 22).Max();
+            int dealerScore = DealerResult.Where(x => x < 22).Max();
+            if (playerScore > dealerScore) return true;
+            else if(playerScore < dealerScore) return false;
+            else return null;
         }
     }
 }
