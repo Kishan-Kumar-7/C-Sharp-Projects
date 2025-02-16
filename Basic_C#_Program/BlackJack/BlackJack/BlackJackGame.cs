@@ -20,6 +20,7 @@ namespace BlackJack
             Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
+            Dealer.Deck = Deck.Shuffle(Dealer.Deck);
             Console.WriteLine("Place Your Bet!");
             foreach (Player player in Players) 
             {
@@ -33,10 +34,10 @@ namespace BlackJack
             }
             for (int i = 0; i < 2; i++) 
             {
-                Console.WriteLine("Dealing...");
+                Console.WriteLine("Dealing...\n");
                 foreach (Player player in Players) 
                 {
-                    Console.Write("{0}.", player.Name);
+                    Console.Write("{0} : ", player.Name);
                     Dealer.Deal(player.Hand);
                     if (i == 1) 
                     {
@@ -49,7 +50,7 @@ namespace BlackJack
                         }
                     }
                 }
-                Console.Write("Dealing....");
+                Console.Write("Dealing....\n");
                 Dealer.Deal(Dealer.Hand);
                 if (i == 1)
                 {
@@ -139,14 +140,14 @@ namespace BlackJack
                 }
                 else if (playerWon == true)
                 {
-                    Console.WriteLine("{0} Won {1} Money...", player.Name, Bets[player]);
                     player.Balance += (Bets[player] * 2);
                     Dealer.Balance -= Bets[player];
+                    Console.WriteLine("{0} Won {1} Money... Your Balance is {2}.", player.Name, Bets[player], player.Balance);
                 }
                 else
                 {
-                    Console.WriteLine("Dealer Wins {0}!", Bets[player]);
                     Dealer.Balance += Bets[player];
+                    Console.WriteLine("Dealer Wins {0}! Your Balance is {1}.", Bets[player], player.Balance);
                 }
                 Console.WriteLine("Do You Want To Play Again???");
                 string answer = Console.ReadLine().ToLower();

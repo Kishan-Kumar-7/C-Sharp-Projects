@@ -6,7 +6,7 @@ namespace BlackJack
 
         static void Main()
         {
-            Console.WriteLine("Welcome to the Games of Cards Casino. \n Let's Start by Sharing Your Name With Us :");
+            Console.WriteLine("Welcome to the Games of Cards Casino. \nLet's Start by Sharing Your Name With Us :");
             string playerName = Console.ReadLine();
             Console.WriteLine("And How Much Money Did You Going To Play With Today?");
             int pBank = Convert.ToInt32(Console.ReadLine());
@@ -21,8 +21,16 @@ namespace BlackJack
                 {
                     game.Play();
                 }
-                game -= player;
-                Console.WriteLine("Thank You For Playing!");
+                if (player.Balance <= 0)
+                {
+                    Console.WriteLine("Sorry! You Do Not Have Sufficiant Balance To Play Further..\nPlease Visit Again...");
+                    game -= player;
+                }
+                else 
+                {
+                    game -= player;
+                    Console.WriteLine("Thank You For Playing!");
+                }
             }
             Console.WriteLine("Feel Free to Look Around Casino. Bye For Now.");
         }
