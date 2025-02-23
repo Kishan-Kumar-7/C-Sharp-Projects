@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StoreText\StoreText\bin\Debug\net8.0\StoreText.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StoreText\StoreText\bin\Debug\net8.0\StoreText.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StoreText\StoreText\bin\Debug\net8.0\StoreText.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StoreText\StoreText\bin\Debug\net8.0\StoreText.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StoreText\StoreText\bin\Debug\net8.0\StoreText.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StoreText\StoreText\obj\Debug\net8.0\StoreText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StoreText\StoreText\obj\Debug\net8.0\StoreText.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StoreText\StoreText\obj\Debug\net8.0\StoreText.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StoreText\StoreText\obj\Debug\net8.0\StoreText.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StoreText\StoreText\obj\Debug\net8.0\StoreText.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StoreText\StoreText\obj\Debug\net8.0\StoreText.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StoreText\StoreText\obj\Debug\net8.0\refint\StoreText.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StoreText\StoreText\obj\Debug\net8.0\StoreText.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StoreText\StoreText\obj\Debug\net8.0\StoreText.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\StoreText\StoreText\obj\Debug\net8.0\ref\StoreText.dll
