@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Casino.Interfaces;
 
-namespace BlackJack
+namespace Casino.BlackJack
 {
     public  class BlackJackGame : Game, IWalkAway
     {
@@ -24,7 +25,18 @@ namespace BlackJack
             Console.WriteLine("Place Your Bet!");
             foreach (Player player in Players) 
             {
-                int bet = Convert.ToInt32( Console.ReadLine());
+                bool validAnswer = false;
+                int bet = 0;
+                while (!validAnswer) {
+                    Console.WriteLine("Place Your Bet!");
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);
+                    Console.WriteLine("Please Enter Digits Only, No Decimals...");
+                }
+                if (bet <= 0) 
+                {
+                    throw new FraudException("Security! Kick This Person Out");
+                }
+                bet = Convert.ToInt32( Console.ReadLine());
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet) 
                 {
