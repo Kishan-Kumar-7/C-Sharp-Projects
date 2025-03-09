@@ -67,15 +67,15 @@ namespace Casino
                                         Application Intent=ReadWrite;
                                         Multi Subnet Failover=False";
 
-            string quearyString = "INSERT INTO Exceptions (ExceptionType, ExceptionMassage, TimeStamp) VALUES (@ExceptionType, @ExceptionMassage, @TimeStamp)";
+            string quearyString = "INSERT INTO Exceptions (ExceptionType, ExceptionMessage, TimeStamp) VALUES (@ExceptionType, @ExceptionMessage, @TimeStamp)";
             using (System.Data.SqlClient.SqlConnection connection = new System.Data.SqlClient.SqlConnection(connectionString)) {
                 SqlCommand command = new SqlCommand(quearyString, connection);
                 command.Parameters.Add("@ExceptionType", SqlDbType.VarChar);
-                command.Parameters.Add("@ExceptionMassage", SqlDbType.VarChar);
+                command.Parameters.Add("@ExceptionMessage", SqlDbType.VarChar);
                 command.Parameters.Add("@TimeStamp", SqlDbType.DateTime);
 
                 command.Parameters["@ExceptionType"].Value = ex.GetType().ToString();
-                command.Parameters["@ExceptionMassage"].Value = ex.Message;
+                command.Parameters["@ExceptionMessage"].Value = ex.Message;
                 command.Parameters["@TimeStamp"].Value = DateTime.Now;
 
                 connection.Open();
