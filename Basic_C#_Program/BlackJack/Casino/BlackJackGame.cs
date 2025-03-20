@@ -22,7 +22,6 @@ namespace Casino.BlackJack
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
             Dealer.Deck = Deck.Shuffle(Dealer.Deck);
-            Console.WriteLine("Place Your Bet!");
             foreach (Player player in Players) 
             {
                 bool validAnswer = false;
