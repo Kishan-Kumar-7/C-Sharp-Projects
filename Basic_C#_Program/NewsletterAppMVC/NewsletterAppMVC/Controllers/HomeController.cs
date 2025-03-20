@@ -5,6 +5,7 @@ using Microsoft.Data.SqlClient;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using NewsletterAppMVC.ViewModels;
 
 namespace NewsletterAppMVC.Controllers
 {
@@ -66,7 +67,16 @@ namespace NewsletterAppMVC.Controllers
                     connection.Close();
                 }
             }
-            return View(signups); 
+            List<SignupVM> signupsVMS = new List<SignupVM>();
+            foreach (var signup in signups)
+            {
+                SignupVM signupVM = new SignupVM();
+                signupVM.FirstName = signup.FirstName;
+                signupVM.LastName = signup.LastName;
+                signupVM.EmailAddress = signup.EmailAddress;
+                signupsVMS.Add(signupVM);
+            }
+            return View(signupsVMS); 
         }
 
     }
