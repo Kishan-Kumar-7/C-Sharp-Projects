@@ -1,0 +1,42 @@
+﻿
+@using NewsletterAppMVC.ViewModels
+@model List<SignupVM>
+
+<div class="row m-3">
+    <div class="card g-0 col-sm-12 col-md-10 col-lg-6 mx-auto shadow ">
+        <div class="card-header text-center">
+            <h5 class="m-0">Newsletter Sign Up List</h5>
+        </div>
+        <div class="card-body">
+            <div class="row mb-4">
+                <div class="col-2">First Name</div>
+                <div class="col">Last Name</div>
+                <div class="col-4">Email Address</div>
+                <div class="col">Status</div>
+            </div>
+            @foreach (var signup in Model)
+            {
+                using (Html.BeginForm("Unsubscribe", "Admin", FormMethod.Post))
+                {
+                    <input type="hidden" name="Id" value="@signup.Id" />
+                    <div class="row mb-1">
+                        <div class="col-2">
+                            @signup.FirstName
+                        </div>
+
+                        <div class="col">
+                            @signup.LastName
+                        </div>
+
+                        <div class="col-4">
+                            @signup.EmailAddress
+                        </div>
+                        <div class="col">
+                            <button type="submit" class="btn btn-danger w-100">Unsubscribe</button>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>

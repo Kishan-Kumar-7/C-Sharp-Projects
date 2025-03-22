@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\NewsletterAppMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{596650D0-79B7-4776-83FC-61A9451626D7}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\newsletterappmvc\\newsletterappmvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{596650D0-79B7-4776-83FC-61A9451626D7}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596650D0-79B7-4776-83FC-61A9451626D7}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\newsletterappmvc\\newsletterappmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596650D0-79B7-4776-83FC-61A9451626D7}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596650D0-79B7-4776-83FC-61A9451626D7}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\newsletterappmvc\\newsletterappmvc\\viewmodels\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596650D0-79B7-4776-83FC-61A9451626D7}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\viewmodels\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{596650D0-79B7-4776-83FC-61A9451626D7}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\newsletterappmvc\\newsletterappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{596650D0-79B7-4776-83FC-61A9451626D7}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +34,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "NewsletterAppMVC\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:25:41.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignupVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\NewsletterAppMVC\\NewsletterAppMVC\\ViewModels\\SignupVM.cs",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\ViewModels\\SignupVM.cs",
+              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\NewsletterAppMVC\\NewsletterAppMVC\\ViewModels\\SignupVM.cs",
+              "RelativeToolTip": "NewsletterAppMVC\\ViewModels\\SignupVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:22:40.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Admin\\Index.cshtml*",
+              "RelativeToolTip": "NewsletterAppMVC\\Views\\Admin\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T11:20:49.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NewsletterAppMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "NewsletterAppMVC\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwCMAAAAlAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NewsletterAppMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T10:28:54.414Z",
               "EditorCaption": ""

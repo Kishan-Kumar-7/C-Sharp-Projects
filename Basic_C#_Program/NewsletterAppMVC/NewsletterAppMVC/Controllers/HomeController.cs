@@ -6,12 +6,12 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using NewsletterAppMVC.ViewModels;
+using NewsletterAppMVC.Models;
 
 namespace NewsletterAppMVC.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Newsletter;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False";
 
         public ActionResult Index()
         {
@@ -26,7 +26,7 @@ namespace NewsletterAppMVC.Controllers
             }
             else 
             {
-                using (NewsletterEntities db = new NewsletterEntities())
+                using (NewsletterEntities1 db = new NewsletterEntities1())
                 {
                     var signup = new SignUp();
                     signup.FirstName = FirstName;
@@ -56,41 +56,27 @@ namespace NewsletterAppMVC.Controllers
         }
         public ActionResult Admin() 
         {
-            using (NewsletterEntities db = new NewsletterEntities())
-            {
-                var signups = db.SignUps;
-                List<SignupVM> signupsVMS = new List<SignupVM>();
-                foreach (var signup in signups)
-                {
-                    SignupVM signupVM = new SignupVM();
-                    signupVM.FirstName = signup.FirstName;
-                    signupVM.LastName = signup.LastName;
-                    signupVM.EmailAddress = signup.EmailAddress;
-                    signupsVMS.Add(signupVM);
-                }
-                return View(signupsVMS);
-            }
-                //string queryString = @"SELECT Id, FirstName, LastName, EmailAddress FROM SignUps";
-                //List<Models.NewsletterSignup> signups = new List<Models.NewsletterSignup>();
-                //using (SqlConnection connection = new SqlConnection(connectionString))
-                //{
-                //    using (SqlCommand command = new SqlCommand(queryString, connection))
-                //    {
-                //        connection.Open();
-                //        SqlDataReader reader = command.ExecuteReader();
-                //        while (reader.Read())
-                //        {
-                //            Models.NewsletterSignup signup = new Models.NewsletterSignup();
-                //            signup.Id = (int)reader["Id"];
-                //            signup.FirstName = reader["FirstName"].ToString();
-                //            signup.LastName = reader["LastName"].ToString();
-                //            signup.EmailAddress = reader["EmailAddress"].ToString();
-                //            signups.Add(signup);
-                //        }
-                //        connection.Close();
-                //    }
-                //}
-         
+            //string queryString = @"SELECT Id, FirstName, LastName, EmailAddress FROM SignUps";
+            //List<Models.NewsletterSignup> signups = new List<Models.NewsletterSignup>();
+            //using (SqlConnection connection = new SqlConnection(connectionString))
+            //{
+            //    using (SqlCommand command = new SqlCommand(queryString, connection))
+            //    {
+            //        connection.Open();
+            //        SqlDataReader reader = command.ExecuteReader();
+            //        while (reader.Read())
+            //        {
+            //            Models.NewsletterSignup signup = new Models.NewsletterSignup();
+            //            signup.Id = (int)reader["Id"];
+            //            signup.FirstName = reader["FirstName"].ToString();
+            //            signup.LastName = reader["LastName"].ToString();
+            //            signup.EmailAddress = reader["EmailAddress"].ToString();
+            //            signups.Add(signup);
+            //        }
+            //        connection.Close();
+            //    }
+            //}
+            return null;
         }
 
     }
