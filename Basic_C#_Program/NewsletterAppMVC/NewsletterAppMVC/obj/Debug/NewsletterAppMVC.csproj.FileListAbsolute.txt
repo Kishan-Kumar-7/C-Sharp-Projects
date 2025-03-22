@@ -138,7 +138,6 @@ C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Newslett
 C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\NewsletterAppMVC\NewsletterAppMVC\bin\System.Text.Encodings.Web.xml
 C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\NewsletterAppMVC\NewsletterAppMVC\bin\System.Text.Json.xml
 C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\NewsletterAppMVC\NewsletterAppMVC\bin\System.Threading.Tasks.Extensions.xml
-C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\NewsletterAppMVC\NewsletterAppMVC\bin\System.ValueTuple.xml
 C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\NewsletterAppMVC\NewsletterAppMVC\bin\cs\Microsoft.Data.SqlClient.resources.dll
 C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\NewsletterAppMVC\NewsletterAppMVC\bin\de\Microsoft.Data.SqlClient.resources.dll
 C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\NewsletterAppMVC\NewsletterAppMVC\bin\es\Microsoft.Data.SqlClient.resources.dll
@@ -152,3 +151,7 @@ C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Newslett
 C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\NewsletterAppMVC\NewsletterAppMVC\bin\tr\Microsoft.Data.SqlClient.resources.dll
 C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\NewsletterAppMVC\NewsletterAppMVC\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\NewsletterAppMVC\NewsletterAppMVC\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.xml
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.xml
