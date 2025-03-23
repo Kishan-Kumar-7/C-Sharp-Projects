@@ -1,0 +1,16 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\obj\Debug\net8.0\Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\obj\Debug\net8.0\Scores.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\obj\Debug\net8.0\Scores.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\obj\Debug\net8.0\Scores.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\obj\Debug\net8.0\Scores.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\bin\Debug\net8.0\Scores.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\bin\Debug\net8.0\Scores.dll.config
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\bin\Debug\net8.0\Scores.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\bin\Debug\net8.0\Scores.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\bin\Debug\net8.0\Scores.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\bin\Debug\net8.0\Scores.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\obj\Debug\net8.0\Scores.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\obj\Debug\net8.0\refint\Scores.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\obj\Debug\net8.0\Scores.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\obj\Debug\net8.0\Scores.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\obj\Debug\net8.0\ref\Scores.dll

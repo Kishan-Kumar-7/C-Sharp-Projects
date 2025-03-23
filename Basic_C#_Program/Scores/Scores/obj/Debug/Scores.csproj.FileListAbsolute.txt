@@ -1,0 +1,7 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\obj\Debug\Scores.csproj.AssemblyReference.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\obj\Debug\Scores.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\bin\Debug\Scores.exe.config
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\bin\Debug\Scores.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\bin\Debug\Scores.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\obj\Debug\Scores.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\Scores\Scores\obj\Debug\Scores.pdb

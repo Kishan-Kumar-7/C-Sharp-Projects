@@ -1,0 +1,15 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\dotnetcoreconsoleapp\project\helloworld\bin\Release\net9.0\win-x64\helloworld.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\dotnetcoreconsoleapp\project\helloworld\bin\Release\net9.0\win-x64\helloworld.deps.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\dotnetcoreconsoleapp\project\helloworld\bin\Release\net9.0\win-x64\helloworld.runtimeconfig.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\dotnetcoreconsoleapp\project\helloworld\bin\Release\net9.0\win-x64\helloworld.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\dotnetcoreconsoleapp\project\helloworld\bin\Release\net9.0\win-x64\helloworld.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\dotnetcoreconsoleapp\project\helloworld\obj\Release\net9.0\win-x64\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\dotnetcoreconsoleapp\project\helloworld\obj\Release\net9.0\win-x64\helloworld.AssemblyInfoInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\dotnetcoreconsoleapp\project\helloworld\obj\Release\net9.0\win-x64\helloworld.AssemblyInfo.cs
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\dotnetcoreconsoleapp\project\helloworld\obj\Release\net9.0\win-x64\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\dotnetcoreconsoleapp\project\helloworld\obj\Release\net9.0\win-x64\helloworld.sourcelink.json
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\dotnetcoreconsoleapp\project\helloworld\obj\Release\net9.0\win-x64\helloworld.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\dotnetcoreconsoleapp\project\helloworld\obj\Release\net9.0\win-x64\refint\helloworld.dll
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\dotnetcoreconsoleapp\project\helloworld\obj\Release\net9.0\win-x64\helloworld.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\dotnetcoreconsoleapp\project\helloworld\obj\Release\net9.0\win-x64\helloworld.genruntimeconfig.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\dotnetcoreconsoleapp\project\helloworld\obj\Release\net9.0\win-x64\ref\helloworld.dll
