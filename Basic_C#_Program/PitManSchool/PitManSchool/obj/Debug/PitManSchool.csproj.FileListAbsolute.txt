@@ -1,0 +1,7 @@
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\PitManSchool\PitManSchool\bin\Debug\PitManSchool.exe.config
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\PitManSchool\PitManSchool\bin\Debug\PitManSchool.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\PitManSchool\PitManSchool\bin\Debug\PitManSchool.pdb
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\PitManSchool\PitManSchool\obj\Debug\PitManSchool.csproj.AssemblyReference.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\PitManSchool\PitManSchool\obj\Debug\PitManSchool.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\PitManSchool\PitManSchool\obj\Debug\PitManSchool.exe
+C:\Users\Kisha\Documents\Study\Github\C-Sharp-Projects\Basic_C#_Program\PitManSchool\PitManSchool\obj\Debug\PitManSchool.pdb
