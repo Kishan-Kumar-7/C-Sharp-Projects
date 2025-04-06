@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FavoriteAnimal.props" />
+</Project>

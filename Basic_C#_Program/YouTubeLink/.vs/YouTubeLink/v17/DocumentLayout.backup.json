@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\YouTubeLink\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34F14979-A6C7-4443-AEA5-476B13FC3262}|YouTubeLink\\YouTubeLink.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\youtubelink\\youtubelink\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{34F14979-A6C7-4443-AEA5-476B13FC3262}|YouTubeLink\\YouTubeLink.csproj|solutionrelative:youtubelink\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F14979-A6C7-4443-AEA5-476B13FC3262}|YouTubeLink\\YouTubeLink.csproj|c:\\users\\kisha\\documents\\study\\github\\c-sharp-projects\\basic_c#_program\\youtubelink\\youtubelink\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34F14979-A6C7-4443-AEA5-476B13FC3262}|YouTubeLink\\YouTubeLink.csproj|solutionrelative:youtubelink\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\YouTubeLink\\YouTubeLink\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "YouTubeLink\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\YouTubeLink\\YouTubeLink\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "YouTubeLink\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-06T13:51:25.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\YouTubeLink\\YouTubeLink\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "YouTubeLink\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kisha\\Documents\\Study\\Github\\C-Sharp-Projects\\Basic_C#_Program\\YouTubeLink\\YouTubeLink\\Pages\\Index.cshtml",
+              "RelativeToolTip": "YouTubeLink\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T05:45:02.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
